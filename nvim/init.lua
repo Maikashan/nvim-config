@@ -1,2 +1,0 @@
-require("aishan")
-print("hello")
